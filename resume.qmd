@@ -1,0 +1,8 @@
+---
+title: "Resumé"
+---
+
+```{=html}
+<iframe width="100%" height="700" src="project_files/Jack Brown resume.pdf" title="Jack Brown's Resume"></iframe>
+```
+
