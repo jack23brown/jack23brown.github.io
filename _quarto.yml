@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jack Brown"
+  favicon: favicon_big.png
+  navbar:
+    logo: favicon_big.png
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+      - blog.qmd
+      - resume.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    self_contained: true
+
+editor: visual
+

@@ -1,0 +1,24 @@
+---
+title: "Jack Brown"
+about:
+  template: jolla
+  image: JackBrown.jpg
+  links:
+    - icon: envelope
+      text: Contact
+      href: https://mail.google.com/mail/?view=cm&to=spleader13@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/jack23brown
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/jack-brown-611a46179/
+---
+
+I recently graduated with Master of Science degree in Statistics from Cal Poly, San Luis Obispo. I love using my domain knowledge and computational skills to better understand the world around me, in both a personal and professional context. Thank you for stopping by, please feel free to take a look around my website!
+
+## Education
+
+California Polytechnic State University, San Luis Obispo \| B.S. in Statistics \| Sep 2019 - Jun 2024
+
+California Polytechnic State University, San Luis Obispo \| M.S. in Statistics \| Sep 2023 - Jun 2024
