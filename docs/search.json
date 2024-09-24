@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jack Brown",
+    "section": "",
+    "text": "I recently graduated with Master of Science degree in Statistics from Cal Poly, San Luis Obispo. I love using my domain knowledge and computational skills to better understand the world around me, in both a personal and professional context. Thank you for stopping by, please feel free to take a look around my website!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jack Brown",
+    "section": "Education",
+    "text": "Education\nCalifornia Polytechnic State University, San Luis Obispo | B.S. in Statistics | Sep 2019 - Jun 2024\nCalifornia Polytechnic State University, San Luis Obispo | M.S. in Statistics | Sep 2023 - Jun 2024"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "R/Python MLNetwork AnalysisOh Hell Project\n\n\nIn this project for STAT 551 at Cal Poly, we produced a mock document for the EPA that used machine learning to investigate air pollution and car dependency in the United States. We produced this analysis in two programming languages: R and Python. This project helped bolster my skills in both R and Python, allowing me to see the strengths and weaknesses of both languages in the context of machine learning, data visualization, and data summary.\n\nPythonR\n\n\n\n\n\n\n\n\n\n\n\nMy data science senior capstone project at Cal Poly was to create a network analysis framework for the Global Emancipation Network to help combat human trafficking by identifying criminal networks in the illicit massage business industry. I worked on an interdisciplinary team with three other data science students: Bella White, Thea Yang, and Amara Zabback. The project took course over a 6 month period that consisted of comprehensive network planning and design, data collection from various publicly available sources, self-teaching of a graph database and visualization software (Neo4j), and an interactive network implementation.\nFor a comprehensive summary of the work we completed, please refer to the formal report we created below:"
+  }
+]
