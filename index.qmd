@@ -22,3 +22,84 @@ I recently graduated with Master of Science degree in Statistics from Cal Poly, 
 California Polytechnic State University, San Luis Obispo \| B.S. in Statistics \| Sep 2019 - Jun 2024
 
 California Polytechnic State University, San Luis Obispo \| M.S. in Statistics \| Sep 2023 - Jun 2024
+
+
+## Experience
+
+# Yardi Systems, Inc. | Santa Barbara, CA | 02/24 – 05/24
+Associate Technical Account Manager, Intern	
+	Learned the ins-and-outs of Yardi's vast selection of property management software
+	Provided exceptional customer service to my designated Yardi clients with complex business and accounting needs
+	Utilized SQL to manage, summarize, and interact with relational databases containing large property data sets
+
+# Oway Inc. | Los Angeles, CA | 06/23 – 08/23
+Founding Account Executive
+	Managed clients' customer accounts and oversaw order processes, to ensure satisfactory service and on-time delivery
+	Created email and talk scripts to foster quick communication between customers and freight truck drivers
+	Effectively performed cold calls on HubSpot to onboard new customers in an efficient manner
+	Instructed new and returning customers on how to independently place orders and request freight quotes
+
+# County of San Luis Obispo | San Luis Obispo, CA | 01/23 – 05/23
+Information Technology Department, Student Intern
+	Utilized Power BI, Power Automate, SQL, and other M365 Apps to help manage large datasets and carry out tasks
+	Managed workflows and created meaningful dashboards to optimize data management and internal productivity
+
+# NorthPoint Development | Kansas City, MO | 06/22 – 08/22
+NorthPoint Labs, Data Science Intern
+	Created time series models on R to predict net absorption, thus determine the industrial demand of different markets
+	Authored a research report on the economic impact of multi-family developments
+	Conducted market exploration and industrial research of Rockford, IL to assess potential development opportunities
+	Identified up-and-coming retailers who may need additional warehouse capacity in the future, via statistical analysis
+
+# Statistics Department, California Polytechnic State University | San Luis Obispo, CA | 03/22 – 06/24
+Instructional Student Assistant, Student Grader
+	Graded homework assignments, quizzes, and projects in upper-division undergraduate Statistics courses
+	Kept a timely deadline for 120+ students at a time
+	Instructed students one-on-one and in groups to increase their understanding of statistical concepts
+
+# Women’s Beach Volleyball, Division I, California Polytechnic State University | San Luis Obispo, CA | 09/21 – 05/22
+Technical Coordinator, Student Manager 
+	2022 Big West Conference Champions
+	Managed database of recordings of games and practices for post-analyzing and improvement
+	Created interactive performance-based graphs in Excel to track progress
+	Designed logos and controlled logistics for official and club team apparel
+	Coordinated exchanges of game film with other universities’ beach volleyball programs
+
+# Ross Dress for Less | San Luis Obispo, CA | 09/20 – 11/20
+Retail Associate
+	Managed customer checkout area and organized merchandise, praised by management for work quality and efficiency
+	All-time store record for weekly Cashier Performance Rating, including 7 weeks as the store’s most efficient cashier
+	Provided effective security leading to noticeable improvements in theft prevention rates
+
+
+## Other Experience
+
+#Career Technical Education - Office Occupations, Agoura High School | 08/17 – 6/19 
+	Experienced and learned the system of several different office workplace environments
+	Mastered the ability to provide exceptional communication and work productivity to employer
+	Understand the importance of each co-worker’s role within businesses’ structure and overall goal
+
+#STAT 421: Survey Sampling & Methodology, California Polytechnic State University, San Luis Obispo | 09/21 – 12/21
+Student Survey Researcher
+	Worked with WITH US Center for Bystander Intervention to survey university administrators across the U.S. about their needs related to student health and safety
+	Worked as a member of the Survey Instrument Design, Training, and Field Work Team
+-	Designed survey instrument on Campus Labs, then trained class on proper survey interview etiquette
+-	Created an emailing system for students to request interviews from administrators
+	Conducted personal survey interviews via Zoom with administrators from universities from across the country
+
+#STAT 466: Senior Project - Statistical Consulting, California Polytechnic State University, San Luis Obispo | 04/23 – 06/23
+Statistical Consultant    
+	Worked with three different clients and domain experts to provide statistical consulting services of their needs
+1.	MicroBio Engineering, Inc. to assess how different factors affect nitrogen removal rates from wastewater
+2.	Cal Poly’s Department of Kinesiology & Public Health to assess food insecurity’s effect on child diet quality
+3.	Cal Poly’s Department of Industrial & Manufacturing Engineering to assess factors in time to screw a metal bolt
+	Administered follow-up client meetings to present final conclusions and memorandum
+	Conducted initial client meetings to effectively establish a collaborative attitude and shared understanding with clients
+	Led statistical analysis to thoroughly answer research questions while accommodating clients’ needs and experience
+
+#STAT 566: Graduate Consulting Practicum, California Polytechnic State University, San Luis Obispo | 04/24 – 06/24
+Statistical Consultant    
+	Worked with students in several different areas of study to provide statistical consulting services of their needs, including Kinesiology projects for the NCAA Division I football team, and several agriculture-related projects
+	Analyzed data using various statistical tests and modeling techniques while accommodating clients’ experience level
+	Delivered statistically valid and audience-appropriate analysis steps and final conclusions through memorandums
+	Scheduled and administered initial, follow-up, and final client meetings to ensure full client satisfaction
