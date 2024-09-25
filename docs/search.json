@@ -26,5 +26,19 @@
     "title": "Projects",
     "section": "",
     "text": "Machine Learning in RThesisGraphic DesignOh Hell Project\n\n\nIn this project for STAT 551 at Cal Poly, we produced a mock document for the American Stroke Association and the Alzheimer’s Association that used machine learning to help identify key risks of stroke and Alzheimer’s. The predictive machine learning models we created can assist doctors in making proper diagnoses and quickly begin preventative or early treatment. This project demonstrates my machine learning, data visualization, and data summary skills in R.\n\n\n\nMy thesis project for my Master of Science in Statistics degree at Cal Poly was an analysis of the impact of the. new Video Assistant Referee (VAR) technology in the biggest soccer league in the world, the English Premier League. The project process included extensive literature review, thorough statisical analysis using parametric and non-parametric methods, and web scraping, to which the code can be found here: https://github.com/jack23brown/Impact-of-VAR-on-the-EPL\n\n\n\n\nLogosFlyers/Posters"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Jack Brown",
+    "section": "Experience",
+    "text": "Experience\nAssociate Technical Account Manager | Yardi Systems, Inc. | Feb 2024 – Present\nFounding Account Executive | Oway Inc. | Jun 2023 – Aug 2023\nIT Student Intern | County of San Luis Obispo | Jan 2023 – May 2023\nData Science Intern | NorthPoint Development | Jun 2022 – Aug 2022\nInstructional Student Assistant | Cal Poly SLO | May 2022 – Jun 2024\nTechnical Coordinator | Cal Poly SLO Women’s Beach Volleyball | Sep 2021 – May 2022\nRetail Associate | Ross Dress for Less | Sep 2020 – Nov 2020\nHead Custodian | MIS Cleaning, Inc. | Apr 2017 - Sep 2019"
+  },
+  {
+    "objectID": "index.html#other-experience",
+    "href": "index.html#other-experience",
+    "title": "Jack Brown",
+    "section": "Other Experience",
+    "text": "Other Experience\nCareer Technical Education - Office Occupations | Agoura High School | Aug 2017 – Jun 2019\nStudent Survey Researcher | STAT 421: Survey Sampling & Methodology, Cal Poly SLO | 09/21 – 12/21\nStatistical Consultant | STAT 466: Senior Project - Statistical Consulting, Cal Poly SLO | Apr 2023 – Jun 2023\nStatistical Consultant | STAT 566: Graduate Consulting Practicum, Cal Poly SLO | Apr 2024 – Jun 2024"
   }
 ]
