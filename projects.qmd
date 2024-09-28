@@ -39,12 +39,12 @@ My thesis project for my Master of Science in Statistics degree at Cal Poly was 
 ## Logos
 
 ```{=html}
-<iframe width="100%" height="700" src="project_files/StrokeAlzheimers.html" title="Logos"></iframe>
+<iframe width="100%" height="700" src="project_files/Magnolia poster print.jpg" title="Logos"></iframe>
 ```
 ## Flyers/Posters
 
 ```{=html}
-<iframe width="100%" height="700" src="project_files/StrokeAlzheimers.html" title="Posters"></iframe>
+<iframe width="100%" height="700" src="project_files/PS Paradise.jpg" title="Posters"></iframe>
 ```
 :::
 
