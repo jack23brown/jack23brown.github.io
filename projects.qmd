@@ -41,16 +41,32 @@ My thesis project for my Master of Science in Statistics degree at Cal Poly was 
 ## Graphic Design
 
 ::: panel-tabset
+## Band Posters
+
+```{=html}
+<iframe width="100%" height="700" src="project_files/Band Posters.pdf" title="Logos"></iframe>
+```
 ## Logos
 
 ```{=html}
-<iframe width="100%" height="700" src="project_files/Magnolia poster print.jpg" title="Logos"></iframe>
+<iframe width="100%" height="700" src="project_files/Band Logos.pdf" title="Posters"></iframe>
 ```
-## Flyers/Posters
+## Cover Art
 
 ```{=html}
-<iframe width="100%" height="700" src="project_files/PS Paradise.jpg" title="Posters"></iframe>
+<iframe width="100%" height="700" src="project_files/Cover Art.pdf" title="Posters"></iframe>
 ```
+## Band Graphics
+
+```{=html}
+<iframe width="100%" height="700" src="project_files/Band Graphics.pdf" title="Posters"></iframe>
+```
+## Party Posters
+
+```{=html}
+<iframe width="100%" height="700" src="project_files/Party Posters.pdf" title="Posters"></iframe>
+```
+## 
 :::
 
 ## Oh Hell Project
