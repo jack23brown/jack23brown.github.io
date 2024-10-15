@@ -18,7 +18,7 @@ In this project for STAT 551 at Cal Poly, we produced a mock document for the Am
 ```
 ## Thesis
 
-My thesis project for my Master of Science in Statistics degree at Cal Poly was an analysis of the impact of the. new Video Assistant Referee (VAR) technology in the biggest soccer league in the world, the English Premier League. The project process included extensive literature review, thorough statisical analysis using parametric and non-parametric methods, and web scraping, to which the code can be found here: <https://github.com/jack23brown/Impact-of-VAR-on-the-EPL>
+My thesis project for my Master of Science in Statistics degree at Cal Poly was an analysis of the impact of the. new Video Assistant Referee (VAR) technology in the biggest soccer league in the world, the English Premier League. The project process included extensive literature review, thorough statistical analysis using parametric and non-parametric methods, and web scraping, to which the code can be found here: <https://github.com/jack23brown/Impact-of-VAR-on-the-EPL>
 
 ```{=html}
 <iframe width="100%" height="700" src="project_files/thesis.pdf" title="Thesis"></iframe>
