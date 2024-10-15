@@ -33,10 +33,10 @@ My thesis project for my Master of Science in Statistics degree at Cal Poly was 
 ```{=html}
 <iframe width="100%" height="700" src="project_files/Rockford Market Exploration.pdf" title="Gif"></iframe>
 ```
-## GIF
+## Bubble Plot GIF
 
 ```{=html}
-<iframe width="100%" height="700" src="project_files/mygif.Gif" title="Gif"></iframe>
+<iframe width="100%" height="700" src="project_files/330gif.gif" title="Gif"></iframe>
 ```
 ## Graphic Design
 
