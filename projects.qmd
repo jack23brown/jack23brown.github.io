@@ -25,12 +25,14 @@ My thesis project for my Master of Science in Statistics degree at Cal Poly was 
 ```
 ## Cal State School System Analysis
 
-In this project, I was given data set containing a vast collection of metrics on each school in the California State University school system. I was tasked with creating and answering 3 research questions of interest about the school system using statistical analysis and new visualizations to display my findings.
+In this project, I was given data set containing a vast collection of metrics on each school in the California State University school system and was told to "tell a story about the data". As such, I chose to group the schools' data into 3 geographic regions, Southern California, Central California, and Northern California schools, in order to motivate the analysis as a competition, or 'California College Civil War'. From there, I created three research questions of interest to compare the schools across the three regions using statistical analysis techniques and visualizations to display my findings.
 
 ```{=html}
 <iframe width="100%" height="700" src="project_files/CSU.pdf" title="CSU System Analysis"></iframe>
 ```
 ## Industrial RE Market Analysis
+
+This slideshow was part of a presentation I gave during an internship in which I was tasked with doing industrial real estate market research on the city of Rockford, IL for speculative development.
 
 ```{=html}
 <iframe width="100%" height="700" src="project_files/Rockford Market Exploration.pdf" title="Industrial RE Analysis"></iframe>
@@ -41,6 +43,8 @@ In this project, I was given data set containing a vast collection of metrics on
 <iframe width="100%" height="700" src="project_files/330gif.gif" title="Gif"></iframe>
 ```
 ## Graphic Design
+
+These are all graphics design projects I have completed by myself using Adobe Photoshop and Photopea for various extracurricular activities and groups.
 
 ::: panel-tabset
 ## Band Posters
