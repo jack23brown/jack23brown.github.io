@@ -25,13 +25,15 @@ My thesis project for my Master of Science in Statistics degree at Cal Poly was 
 ```
 ## Cal State School System Analysis
 
+In this project, I was given data set containing a vast collection of metrics on each school in the California State University school system. I was tasked with creating and answering 3 research questions of interest about the school system using statistical analysis and new visualizations to display my findings.
+
 ```{=html}
-<iframe width="100%" height="700" src="project_files/CSU.pdf" title="Gif"></iframe>
+<iframe width="100%" height="700" src="project_files/CSU.pdf" title="CSU System Analysis"></iframe>
 ```
 ## Industrial RE Market Analysis
 
 ```{=html}
-<iframe width="100%" height="700" src="project_files/Rockford Market Exploration.pdf" title="Gif"></iframe>
+<iframe width="100%" height="700" src="project_files/Rockford Market Exploration.pdf" title="Industrial RE Analysis"></iframe>
 ```
 ## Bubble Plot GIF
 
@@ -44,27 +46,27 @@ My thesis project for my Master of Science in Statistics degree at Cal Poly was 
 ## Band Posters
 
 ```{=html}
-<iframe width="100%" height="700" src="project_files/Band Posters.pdf" title="Logos"></iframe>
+<iframe width="100%" height="700" src="project_files/Band Posters.pdf" title="Band Posters"></iframe>
 ```
 ## Logos
 
 ```{=html}
-<iframe width="100%" height="700" src="project_files/Band Logos.pdf" title="Posters"></iframe>
+<iframe width="100%" height="700" src="project_files/Band Logos.pdf" title="Logos"></iframe>
 ```
 ## Cover Art
 
 ```{=html}
-<iframe width="100%" height="700" src="project_files/Cover Art.pdf" title="Posters"></iframe>
+<iframe width="100%" height="700" src="project_files/Cover Art.pdf" title="Cover Art"></iframe>
 ```
 ## Band Graphics
 
 ```{=html}
-<iframe width="100%" height="700" src="project_files/Band Graphics.pdf" title="Posters"></iframe>
+<iframe width="100%" height="700" src="project_files/Band Graphics.pdf" title="Graphics"></iframe>
 ```
 ## Party Posters
 
 ```{=html}
-<iframe width="100%" height="700" src="project_files/Party Posters.pdf" title="Posters"></iframe>
+<iframe width="100%" height="700" src="project_files/Party Posters.pdf" title="Party Posters"></iframe>
 ```
 ## 
 :::
