@@ -18,7 +18,7 @@ In this project for STAT 551 at Cal Poly, we produced a mock document for the Am
 ```
 ## Thesis
 
-My thesis project for my Master of Science in Statistics degree at Cal Poly was an analysis of the impact of the. new Video Assistant Referee (VAR) technology in the biggest soccer league in the world, the English Premier League. The project process included extensive literature review, thorough statistical analysis using parametric and non-parametric methods, and web scraping, to which the code can be found here: <https://github.com/jack23brown/Impact-of-VAR-on-the-EPL>
+My thesis project for my Master of Science in Statistics degree at Cal Poly was an analysis of the impact of the new Video Assistant Referee (VAR) technology in the biggest soccer league in the world, the English Premier League. The project process included extensive literature review, thorough statistical analysis using parametric and non-parametric methods, and web scraping, to which the code can be found here: <https://github.com/jack23brown/Impact-of-VAR-on-the-EPL>
 
 ```{=html}
 <iframe width="100%" height="700" src="project_files/thesis.pdf" title="Thesis"></iframe>
@@ -32,7 +32,7 @@ In this project, I was given data set containing a vast collection of metrics on
 ```
 ## Industrial RE Market Analysis
 
-This slideshow was part of a presentation I gave during an internship in which I was tasked with doing industrial real estate market research on the city of Rockford, IL for speculative development.
+This slideshow was part of a presentation I gave during an internship in which I was tasked with doing industrial real estate market research on the city of Rockford, IL for speculative development. I sourced all of my information from credible websites and analyzed CoStar data in Alteryx to create several summary tables and geographic visualizations.
 
 ```{=html}
 <iframe width="100%" height="700" src="project_files/Rockford Market Exploration.pdf" title="Industrial RE Analysis"></iframe>
