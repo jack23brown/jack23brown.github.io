@@ -1,5 +1,8 @@
 ---
 title: "Jack Brown"
+format: html
+meta:
+  viewport: "width=device-width, initial-scale=1"
 about:
   template: jolla
   image: JackBrown.jpg
