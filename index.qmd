@@ -47,36 +47,6 @@ Retail Associate \| [Ross Dress for Less](https://www.rossstores.com/) \| Sep 20
 
 Head Custodian \| [MIS Cleaning, Inc.](https://www.buzzfile.com/business/M.I.S.-Cleaning,-Inc.-818-636-2154) \| Apr 2017 - Sep 2019
 
-## Skills
-
-```{r}
-#| echo: FALSE
-#| message: FALSE
-
-library(tidyverse)
-library(kableExtra)
-
-table <- data.frame(Skill_Cat = c("Data Collection", "Data Manipulation", "ML Modeling",
-                              "Data Visualization", "Statistical Communication",
-                              "Statistical Methodologies"),
-                    Ex1 = c("Webscraping", "tidyverse", "tidymodels",
-                                    "ggplot", "Consulting", "Hypothesis Testing"),
-                    Ex2 = c("Survey Design", "knitr", "dplyr", "plotly", 
-                            "Tutoring", "Mathematical Theory"),
-                    Ex3 = c("API", "SQL", "RandomForest", "leaflet", "Research Presentations",
-                            "Probability"))
-
-table |> 
-  rename("Skill" = Skill_Cat,
-         "Example 1" = Ex1,
-         "Example 2" = Ex2,
-         "Example 3" = Ex3) |> 
-  kbl() |> 
-  kable_paper(full_width = FALSE) |> 
-  column_spec(1, bold = T, border_right = T) |> 
-  row_spec(0, bold = T, background = "grey", color = "white")
-  
-```
 
 
 ## Other Experience
