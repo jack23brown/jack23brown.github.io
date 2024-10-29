@@ -40,5 +40,12 @@
     "title": "Jack Brown",
     "section": "Other Experience",
     "text": "Other Experience\nStatistical Consultant | STAT 566: Graduate Consulting Practicum, Cal Poly SLO | Apr 2024 – Jun 2024\nStatistical Consultant | STAT 466: Senior Project - Statistical Consulting, Cal Poly SLO | Apr 2023 – Jun 2023\nStudent Survey Researcher | STAT 421: Survey Sampling & Methodology, Cal Poly SLO | 09/21 – 12/21\nCareer Technical Education - Office Occupations | Agoura High School | Aug 2017 – Jun 2019"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Jack Brown",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\nSkill\nExample 1\nExample 2\nExample 3\n\n\n\n\nData Collection\nWebscraping\nSurvey Design\nAPI\n\n\nData Manipulation\ntidyverse\nknitr\nSQL\n\n\nML Modeling\ntidymodels\ndplyr\nRandomForest\n\n\nData Visualization\nggplot\nplotly\nleaflet\n\n\nStatistical Communication\nConsulting\nTutoring\nResearch Presentations\n\n\nStatistical Methodologies\nHypothesis Testing\nMathematical Theory\nProbability"
   }
 ]
