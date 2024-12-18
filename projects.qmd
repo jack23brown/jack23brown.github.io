@@ -11,7 +11,7 @@ format:
 ::: panel-tabset
 ## Machine Learning in R
 
-In this project for STAT 551 at Cal Poly, we produced a mock document for the American Stroke Association and the Alzheimer’s Association that used machine learning to help identify key risks of stroke and Alzheimer's. The predictive machine learning models we created can assist doctors in making proper diagnoses and quickly begin preventative or early treatment. This project demonstrates my machine learning, data visualization, and data summary skills in R.
+In this project for STAT 551 - Statistical Learning with R at Cal Poly, we produced a mock document for the American Stroke Association and the Alzheimer’s Association that used machine learning to help identify key risks of stroke and Alzheimer's. The predictive machine learning models we created can assist doctors in making proper diagnoses and quickly begin preventative or early treatment. This project demonstrates my machine learning, data visualization, and data summary skills in R.
 
 ```{=html}
 <iframe width="100%" height="700" src="project_files/StrokeAlzheimers.html" title="Project File"></iframe>
@@ -42,6 +42,14 @@ This slideshow was part of a presentation I gave during an internship in which I
 ```{=html}
 <iframe width="100%" height="700" src="project_files/330gif.gif" title="Gif"></iframe>
 ```
+## R Package
+
+In this project for STAT 541 - Advanced Statistical Computing with R at Cal Poly, we had to create our own package in R. We created the "AssumpCheckR" package, which provides 3 new functions to help check three assumptions made about your data when fitting a linear model: check_linearity(), check_normality(), and check_variance(). There are several other functions in the package that help to check these assumptions, including making plots, using tests, and generating interpretations of the results.
+
+```{=html}
+<iframe id="example1" src="https://github.com/GenghisKhandybar/AssumpCheckR" style="border: none; width: 100%; height: 720px" frameborder="0"></iframe>
+```
+
 ## Graphic Design
 
 These are all graphics design projects I have completed by myself using Adobe Photoshop and Photopea for various extracurricular activities and groups.
