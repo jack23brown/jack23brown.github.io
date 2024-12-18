@@ -46,9 +46,7 @@ This slideshow was part of a presentation I gave during an internship in which I
 
 In this project for STAT 541 - Advanced Statistical Computing with R at Cal Poly, we had to create our own package in R. We created the "AssumpCheckR" package, which provides 3 new functions to help check three assumptions made about your data when fitting a linear model: check_linearity(), check_normality(), and check_variance(). There are several other functions in the package that help to check these assumptions, including making plots, using tests, and generating interpretations of the results.
 
-```{=html}
-<iframe id="example1" src="https://github.com/GenghisKhandybar/AssumpCheckR" style="border: none; width: 100%; height: 720px" frameborder="0"></iframe>
-```
+<https://github.com/GenghisKhandybar/AssumpCheckR>
 
 ## Graphic Design
 
