@@ -8,8 +8,6 @@ format:
     page-layout: full
 ---
 
-<https://github.com/jack23brown/AssumpCheckR>
-
 ::: panel-tabset
 ## Machine Learning in R
 
