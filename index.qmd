@@ -18,7 +18,7 @@ about:
       href: https://github.com/jack23brown
 ---
 
-Hello! I am a graduate from Cal Poly San Luis Obispo with my Master's & Bachelor's of Science degrees in Statistics. For those interested, I would describe myself as a versatile, pragmatic, and detail-oriented individual interested in the fields of statistics, project management, real estate, sports, finance, and music. Through my experiences in academia, jobs, internships, and extracirriculars, I have developed an extensive skill set that allows me to succeed in many different environments. I am a creative thinker and great problem-solver, who takes pride in the quality of my work.
+Hello! I am a graduate from Cal Poly San Luis Obispo with my Master's & Bachelor's of Science degrees in Statistics. For those interested, I would describe myself as a versatile, pragmatic, and detail-oriented individual interested in the fields of statistics, project management, real estate, sports, finance, and music. Through my experiences in academia, jobs, internships, and extracurriculars, I have developed an extensive skill set that allows me to succeed in many different environments. I am a creative thinker and great problem-solver, who takes pride in the quality of my work.
 
 ## Education
 
