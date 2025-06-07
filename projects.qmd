@@ -63,7 +63,7 @@ These are all graphics design projects I have completed by myself using Adobe Ph
 ## US Air Pollution app
 
 ```{=html}
-<iframe id="example1" src="https://5p6l72-jack-brown.shinyapps.io/US-Air-Pollution/" style="border: none; width: 100%; height: 720px" frameborder="0"></iframe>s
+<iframe id="example1" src="https://5p6l72-jack-brown.shinyapps.io/US-Air-Pollution/" style="border: none; width: 100%; height: 720px" frameborder="0"></iframe>
 ```
 ## R Package
 
