@@ -5,7 +5,7 @@ meta:
   viewport: "width=device-width, initial-scale=1"
 about:
   template: jolla
-  image: JackBrown.jpg4
+  image: JackBrown.jpg
   links:
     - icon: envelope
       text: Contact
