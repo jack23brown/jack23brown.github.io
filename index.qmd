@@ -12,7 +12,7 @@ about:
       href: mailto:jack23brown@yahoo.com
     - icon: linkedin
       text: Linkedin
-      href: https://www.linkedin.com/in/jack-brown-611a46179/
+      href: https://www.linkedin.com/in/jackkenyonbrown/
     - icon: github
       text: Github
       href: https://github.com/jack23brown
